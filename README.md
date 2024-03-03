@@ -37,12 +37,12 @@ A simple console-based cryptocurrency tracker using the CoinGecko API. Get real-
 3. Optionally, explore the categories associated with the cryptocurrency.
 4. To exit, type 'exit', 'bye', or 'cancel'.
    
-** Example:**
-    ```bash
-    Enter the symbol or name of the cryptocurrency (type 'exit' to end): Bitcoin
-    The current price of Bitcoin (BTC) is $62160
-    Categories for bitcoin: ['Proof of Work (PoW)', 'FTX Holdings', 'Layer 1 (L1)', 'Cryptocurrency']
-    ```
+# Example Interaction
+$ python main.py
+Enter the symbol or name of the cryptocurrency (type 'exit' to end): Bitcoin
+The current price of Bitcoin (BTC) is $62160
+Categories for bitcoin: ['Proof of Work (PoW)', 'FTX Holdings', 'Layer 1 (L1)', 'Cryptocurrency']
+
 
 ## About CoinTracker
 
