@@ -1,4 +1,4 @@
-# CoinTracker
+# CoinTracker :
 
 A simple console-based cryptocurrency tracker using the CoinGecko API. Get real-time information about cryptocurrency prices and categories.
 
