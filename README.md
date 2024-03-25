@@ -18,7 +18,7 @@ A simple console-based cryptocurrency tracker using the CoinGecko API. Get real-
 2. **Navigate to the project directory:**
     ```bash
     cd CoinTracker
-    ```
+    ``` 
 
 3. **Install the required library:**
     ```bash
