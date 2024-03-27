@@ -35,7 +35,7 @@ A simple console-based cryptocurrency tracker using the CoinGecko API. Get real-
 1. Enter the symbol or name of the cryptocurrency when prompted.
 2. View real-time information about the selected cryptocurrency.
 3. Optionally, explore the categories associated with the cryptocurrency.
-4. To exit, type 'exit', 'bye', or 'cancel'.
+4. To exit, type 'exit', 'bye', or 'cancel'. 
    
 ## **Example:**
    ```bash
